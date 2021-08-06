@@ -1,0 +1,4 @@
+*.vdf
+debug.log
+keys_default.cfg
+ai/*
